@@ -1,0 +1,18 @@
+{
+    "name": "yunxi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Yunxi.js",
+    "scripts": {
+        "start": "node Yunxi.js",
+        "test": "nodemon Yunxi.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.2.0",
+        "glob": "^7.1.7",
+        "mongoose": "^6.0.2"
+    }
+}

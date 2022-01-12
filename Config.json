@@ -1,4 +1,4 @@
 {
   "prefix": "y.",
-  "mongooseConnectionString": "mongodb+srv://yunxidev:yunxi.db@elaina.hlm6j.mongodb.net/test"
+  "mongooseConnectionString": ""
 }

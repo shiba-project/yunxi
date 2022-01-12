@@ -11,8 +11,21 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "akaneko": "^5.2.2",
+        "axios": "^0.24.0",
+        "chalk": "^5.0.0",
         "discord.js": "^13.2.0",
+        "express": "^4.17.2",
+        "fs": "0.0.1-security",
         "glob": "^7.1.7",
-        "mongoose": "^6.0.2"
+        "hmtai": "^2.0.9",
+        "mongoose": "^6.1.6",
+        "node-fetch": "^3.1.0",
+        "nodemon": "^2.0.15",
+        "reconlx": "^2.5.2"
+    },
+    "devDependencies": {
+        "node": "^17.3.0",
+        "npm": "^8.3.0"
     }
 }
